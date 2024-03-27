@@ -1,0 +1,16 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 6 times.(¡óö–øÿÿÿÿ8Ó›éœå1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "accept" 6 times.(¡óö–øÿÿÿÿ8Ó›éœå1
+k
+java:S1192"NDefine a constant instead of duplicating this literal "Authorization" 6 times.(„ìĞØ8Ô›éœå1
+‰
+java:S1192%"gDefine a constant instead of duplicating this literal "Error al obtener los datos solicitados" 5 times.(®ëÛúÿÿÿÿ8Ô›éœå1
+{
+java:S1192"^Define a constant instead of duplicating this literal "https://api.themoviedb.org/3/" 4 times.(êøª˜8Ô›éœå1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Bearer " 5 times.(„ìĞØ8Ô›éœå1
+€
+java:S1488V"dImmediately return this expression instead of assigning it to the temporary variable "jsonResponse".(æñÔB8Ô›éœå1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤‘‡ûùÿÿÿÿ8Õ›éœå1

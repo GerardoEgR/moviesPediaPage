@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÏÁ¹8³˜Ù æ1
+B
+java:S1452."&Remove usage of generic wildcard type.(İêõ8Ï¥ş æ1
+e
+java:S1128	"HRemove this unused import 'org.springframework.data.domain.PageRequest'.(ºêâÚ8Ğ¥ş æ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ñ¥ş æ1
