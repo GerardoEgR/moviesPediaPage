@@ -17,7 +17,7 @@ Aplicación Web que simula una pagina de películas, la cual permite a los usuar
 
  ## Tech Stack
 
-**Client:** React, Zustand, React-Bootstrap, React-Query, Qeact-Hook-Form.
+**Client:** React, Zustand, React-Bootstrap, React-Query, React-Hook-Form.
 
 **Server:** Java, Spring Boot, Maven, Spring Security, JPA, ORM.
 
